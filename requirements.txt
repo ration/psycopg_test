@@ -1,0 +1,4 @@
+
+psycopg==3.2.3
+psycopg-pool==3.2.3
+python-ptrace==0.9.9
